@@ -5,7 +5,7 @@ import Main from './components/Main.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <div className='p-4 bg-yellow-100'>
+   <div>
     <Main/>
     </div>
   </React.StrictMode>,
